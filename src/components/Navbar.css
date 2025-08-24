@@ -1,0 +1,161 @@
+.navbar-appbar {
+  border-bottom: 1px solid #e0e0e0;
+  background-color: #003d3d;
+  position: sticky;
+}
+
+.navbar-toolbar {
+  min-height: 56px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+@media (min-width: 768px) {
+  .navbar-toolbar {
+    min-height: 64px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+@media (min-width: 768px) {
+  .navbar-container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+.navbar-logo-stack {
+  cursor: pointer;
+  flex-shrink: 0;
+  text-align: center;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+@media (min-width: 600px) {
+  .navbar-logo-stack {
+    text-align: left;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+.default-logo {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}
+
+.navbar-avatar {
+  width: 36px !important;
+  height: 36px !important;
+  font-weight: 800;
+  font-size: 18px;
+}
+
+@media (min-width: 768px) {
+  .navbar-avatar {
+    width: 48px !important;
+    height: 48px !important;
+    font-size: 24px;
+  }
+}
+.navbar-title-box {
+  padding-left: 80px;
+}
+.navbar-title {
+  font-size: 16px;
+}
+
+@media (min-width: 768px) {
+  .navbar-title {
+    font-size: 20px;
+  }
+}
+
+.navbar-caption {
+  font-size: 11px;
+}
+
+@media (min-width: 768px) {
+  .navbar-caption {
+    font-size: 13px;
+  }
+}
+
+.navbar-links {
+  display: none;
+}
+
+@media (min-width: 960px) {
+  .navbar-links {
+    display: flex;
+    flex-shrink: 1;
+  }
+}
+
+.navbar-link-btn {
+  font-size: 13px;
+  padding-left: 12px;
+  padding-right: 12px;
+  min-width: 0;
+}
+
+@media (min-width: 768px) {
+  .navbar-link-btn {
+    font-size: 15px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+.navbar-apply-btn {
+  font-size: 13px;
+  padding-left: 16px;
+  padding-right: 24px;
+  box-shadow: none;
+}
+
+@media (min-width: 768px) {
+  .navbar-apply-btn {
+    font-size: 15px;
+    padding-left: 24px;
+    padding-right: 32px;
+  }
+}
+
+.navbar-menu-btn {
+  display: inline-flex;
+  margin-left: 8px;
+}
+
+@media (min-width: 960px) {
+  .navbar-menu-btn {
+    display: none;
+  }
+}
+
+.navbar-menu-paper {
+  min-width: 160px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.navbar-menu-item {
+  font-size: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.navbar-menu-apply {
+  font-weight: 700;
+}

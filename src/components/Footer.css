@@ -1,0 +1,171 @@
+.footer-root {
+  background: #f6f6f6;
+  color: #002a2e;
+  padding-top: 24px;
+  padding-bottom: 0;
+}
+
+@media (min-width: 768px) {
+  .footer-root {
+    padding-top: 48px;
+  }
+}
+
+.footer-heading {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
+
+@media (min-width: 768px) {
+  .footer-heading {
+    font-size: 20px;
+  }
+}
+
+.footer-social {
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+}
+
+.footer-social-btn {
+  font-size: 18px;
+  padding: 4px;
+}
+
+@media (min-width: 768px) {
+  .footer-social-btn {
+    font-size: 24px;
+    padding: 8px;
+  }
+}
+
+.footer-address,
+.footer-contact {
+  font-size: 13px;
+  margin-bottom: 4px;
+}
+
+@media (min-width: 768px) {
+  .footer-address,
+  .footer-contact {
+    font-size: 15px;
+  }
+}
+
+.footer-contact-link {
+  display: block;
+  word-break: break-all;
+}
+
+.footer-divider {
+  display: none;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+@media (max-width: 959px) {
+  .footer-divider {
+    display: block;
+  }
+}
+
+.footer-list {
+  margin-bottom: 8px;
+}
+
+.footer-list-item {
+  font-size: 13px;
+}
+
+@media (min-width: 768px) {
+  .footer-list-item {
+    font-size: 15px;
+  }
+}
+
+.footer-list-link {
+  font-size: 13px;
+}
+
+@media (min-width: 768px) {
+  .footer-list-link {
+    font-size: 15px;
+  }
+}
+
+.footer-bottom {
+  background: #004d4d;
+  color: #fff;
+  margin-top: 32px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+@media (min-width: 768px) {
+  .footer-bottom {
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+}
+
+.footer-copyright {
+  text-align: center;
+  margin-bottom: 8px;
+  opacity: 0.9;
+  font-size: 12px;
+}
+
+@media (min-width: 768px) {
+  .footer-copyright {
+    text-align: left;
+    margin-bottom: 0;
+    font-size: 14px;
+  }
+}
+
+.footer-bottom-links {
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .footer-bottom-links {
+    text-align: right;
+  }
+}
+
+.footer-bottom-stack {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media (min-width: 768px) {
+  .footer-bottom-stack {
+    justify-content: flex-end;
+  }
+}
+
+.footer-bottom-link {
+  font-size: 12px;
+  margin-right: 8px;
+}
+
+@media (min-width: 768px) {
+  .footer-bottom-link {
+    font-size: 14px;
+    margin-right: 16px;
+  }
+}
+
+.footer-bottom-arrow {
+  margin-left: 16px;
+  display: none;
+  vertical-align: middle;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+@media (min-width: 960px) {
+  .footer-bottom-arrow {
+    display: inline-block;
+  }
+}

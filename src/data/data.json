@@ -1,0 +1,114 @@
+{
+  "programs": [
+    {
+      "id": "p1",
+      "name": "B.Tech – CSE",
+      "desc": "AI/ML · Data Science · Full‑stack",
+      "icon": "cse"
+    },
+    {
+      "id": "p2",
+      "name": "B.Tech – ECE",
+      "desc": "VLSI · Embedded · 5G/IoT",
+      "icon": "ece"
+    },
+    {
+      "id": "p3",
+      "name": "MBA",
+      "desc": "Analytics · FinTech · Marketing",
+      "icon": "mba"
+    },
+    {
+      "id": "p4",
+      "name": "M.Tech",
+      "desc": "Cybersecurity · Power Systems · DS",
+      "icon": "mtech"
+    }
+  ],
+  "news": [
+    { "id": "n1", "title": "NAAC A+ re‑accreditation", "date": "2025-08-10" },
+    {
+      "id": "n2",
+      "title": "Hackathon winners – Smart India 2025",
+      "date": "2025-07-28"
+    },
+    {
+      "id": "n3",
+      "title": "MoU with ACME Labs for AI Research",
+      "date": "2025-06-19"
+    }
+  ],
+  "events": [
+    { "id": "e1", "title": "Orientation 2025", "date": "2025-08-30" },
+    { "id": "e2", "title": "Research Colloquium", "date": "2025-09-12" },
+    {
+      "id": "e3",
+      "title": "Placement Readiness Bootcamp",
+      "date": "2025-09-25"
+    }
+  ],
+  "recruiters": [
+    { "id": "r1", "name": "Google" },
+    { "id": "r2", "name": "Microsoft" },
+    { "id": "r3", "name": "Amazon" },
+    { "id": "r4", "name": "TCS" },
+    { "id": "r5", "name": "Infosys" },
+    { "id": "r6", "name": "Accenture" },
+    { "id": "r7", "name": "Salesforce" },
+    { "id": "r8", "name": "Deloitte" },
+    { "id": "r1", "name": "Google" },
+    { "id": "r2", "name": "Microsoft" },
+    { "id": "r3", "name": "Amazon" },
+    { "id": "r4", "name": "TCS" },
+    { "id": "r5", "name": "Infosys" },
+    { "id": "r6", "name": "Accenture" },
+    { "id": "r7", "name": "Salesforce" },
+    { "id": "r8", "name": "Deloitte" }
+  ],
+  "testimonials": [
+    {
+      "id": "t1",
+      "name": "Ananya Gupta",
+      "role": "SDE @ Amazon",
+      "text": "World‑class faculty and an inclusive campus. The coding culture and mentorship helped me land my dream role."
+    },
+    {
+      "id": "t2",
+      "name": "Rohit Sharma",
+      "role": "ML Engineer @ Google",
+      "text": "The research labs and project‑based learning gave me real confidence to tackle complex problems."
+    }
+  ],
+  "stats": [
+    { "id": "s1", "label": "Students", "value": "3,500+" },
+    { "id": "s2", "label": "Faculty", "value": "180+" },
+    { "id": "s3", "label": "Alumni", "value": "12,000+" },
+    { "id": "s4", "label": "Placements", "value": "95%+" }
+  ],
+  "companyLogos": [
+    {
+      "src": "https://gnits.ac.in/wp-content/uploads/2024/08/ServiceNow_logo.svg",
+      "alt": "ServiceNow"
+    },
+    {
+      "src": "https://gnits.ac.in/wp-content/uploads/2024/08/Infosys_logo-300x120.png",
+      "alt": "Infosys"
+    },
+    {
+      "src": "https://gnits.ac.in/wp-content/uploads/2024/08/Tata_Consultancy_Services_Logo-300x121.png",
+      "alt": "TCS"
+    },
+    {
+      "src": "https://gnits.ac.in/wp-content/uploads/2024/08/ServiceNow_logo.svg",
+      "alt": "ServiceNow"
+    },
+    {
+      "src": "https://gnits.ac.in/wp-content/uploads/2024/08/Infosys_logo-300x120.png",
+      "alt": "Infosys"
+    },
+    {
+      "src": "https://gnits.ac.in/wp-content/uploads/2024/08/Tata_Consultancy_Services_Logo-300x121.png",
+      "alt": "TCS"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+// TopStrip component
